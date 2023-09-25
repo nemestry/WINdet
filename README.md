@@ -10,7 +10,7 @@ __Using python in the terminal or IDE:__
 
 ▶️Update all the python packages (for Unix-system users)
 
-1. __Open IDE or terminal (*cd ./windet:*) and create a venv:__
+1. __Open IDE or terminal (*cd ./windet*) and create a venv:__
 
 `python3 -m venv venv`
 
